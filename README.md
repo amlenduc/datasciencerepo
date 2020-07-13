@@ -1,7 +1,7 @@
-titanic
+data science samples
 ==============================
 
-titanic challenge
+data science challenge
 
 Project Organization
 ------------
